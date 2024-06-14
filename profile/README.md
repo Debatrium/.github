@@ -5,4 +5,4 @@ Debatrium is the liberty for communicating with others. It is an open forum host
 
 
 ## Try it now
-[https://github.com/Debatrium/Debatrium/discussions](https://github.com/Debatrium/Debatrium/discussions)
+[https://debatrium.github.io/](https://debatrium.github.io/)
